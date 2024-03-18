@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Rokade</h1>
-<h3 align="center">A passionate Engineering Student from India</h3>
+<h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
